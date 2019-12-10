@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\stefanj\OneDrive - Tomra\Altium Library\Normal Dblib\Tomra Database Library Working Folder\Tomra Library Database.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\erlendm\OneDrive - Tomra\Dokumenter\GitHub\Tomra_Altium_Library_GitHub\Tomra Library Database.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Connectors
+LastFocusedTable=Transistors
 [Table1]
 SchemaName=
 TableName=Capacitors
@@ -32,9 +32,6 @@ TableName=Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=294|Tomra Part No0=96|Library Path0=149|Library Ref0=294|Footprint Path0=237|Footprint Ref0=227|Comment0=138|Type0=47|Max Pin0=63|SMD0=47|Created0=63|Approved0=73|Created Date0=90|Approved Date0=100|Additional Comments0=134|Art Spec0=72|ComponentLink1Description0=170|ComponentLink1URL0=495|ComponentLink2Description0=170|ComponentLink2URL0=131|Height0=58|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
 [Table3]
 SchemaName=
 TableName=Diodes
@@ -95,6 +92,9 @@ TableName=Transistors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=267|Tomra Part No0=96|Library Path0=146|Library Ref0=267|Footprint Path0=237|Footprint Ref0=116|Comment0=104|Type0=64|Max Pin0=63|Voltage0=63|SMD0=47|Created0=63|Approved0=73|Created Date0=90|Approved Date0=100|Art Spec0=65|ComponentLink1Description0=170|ComponentLink1URL0=484|ComponentLink2Description0=170|ComponentLink2URL0=131|Height0=58|Manufacturer 10=105|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
 [FieldMap1]
 Options=FieldName=Capacitors.Description|TableNameOnly=Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
