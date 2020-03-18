@@ -74,7 +74,7 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\GitHub\Tomra_Altium_Library_GitHub\DOC\Templates\Tomra BOM Template NEW.XLT|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\GitHub\Tomra_Altium_Library_GitHub\DOC\Templates\Tomra BOM Template.XLT|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=LibRef=True
 Configuration2_Name4=SortOrder
@@ -303,7 +303,7 @@ OutputFileNameMulti5=C655-1_Placement
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=1
-OutputFilePath6=J:\TECHNOLOGY\HDW\PCB\C655\UTV\From EK\Altium Project Archive\C655 (2020-03-13 17-31-10)\Project Outputs for C655\
+OutputFilePath6=J:\TECHNOLOGY\HDW\PCB\C655\UTV\From EK\Altium Project Archive\C655 (2020-03-13 14-52-35)\Project Outputs for C655\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for C655
 OutputPathMedia6=
@@ -379,7 +379,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=J:\TECHNOLOGY\HDW\PCB\C655\UTV\From EK\Altium Project Archive\C655 (2020-03-13 17-31-10)\Project Outputs for C655\
+RelativeOutputPath6=J:\TECHNOLOGY\HDW\PCB\C655\UTV\From EK\Altium Project Archive\C655 (2020-03-13 14-52-35)\Project Outputs for C655\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
